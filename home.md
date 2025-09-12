@@ -1,9 +1,9 @@
 ---
 lang-ref: en-us
 layout: home
-title: Explore the Biodiversity of South Africa 
+title: Exploring national checklists
 description: |
-  SANBI-GBIF aims to support and grow a network of partners in biodiversity informatics through data mobilisation, capacity enhancement, publication and use. The Node provides access to biodiversity occurrence records published by South African Institutions.     
+  This is an experimental clone of the [Sanbi website](https://www.sanbi-gbif.org/). The purpose is to test indexing against a national checklist.
 background: /assets/images/20180114_tsitsikamma-res.jpg
 cta:
   - text: Start exploring
