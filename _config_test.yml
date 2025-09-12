@@ -1,4 +1,4 @@
-url: "https://sanbi.hp.gbif-uat.org" # the base hostname & protocol for your staging site, e.g. https://example.hp.gbif-uat.org
+url: "https://experimental-custom-checklist.hp.gbif-uat.org" # the base hostname & protocol for your staging site, e.g. https://example.hp.gbif-uat.org
 
 useSharedLibrary: true # Use the new component library
 testSite: true #style the site to show that it is a test site
