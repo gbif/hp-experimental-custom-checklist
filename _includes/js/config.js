@@ -3,7 +3,7 @@ const COUNTRY = 'ZA'; // South Africa
 
 var siteConfig = {
   "version": 3,
-  defaultChecklistKey: '7ddf754f-d193-4cc9-b351-99906754a03b',
+  defaultChecklistKey: NATIONAL_CHECKLIST,
   availableChecklistKeys: [NATIONAL_CHECKLIST, '7ddf754f-d193-4cc9-b351-99906754a03b'],
   "pages": [
     {
