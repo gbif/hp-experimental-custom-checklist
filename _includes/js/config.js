@@ -1,13 +1,10 @@
-var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'light', extendWith: {
-    primary: themeStyle.colors.primary
-  }
-});
+const NATIONAL_CHECKLIST = 'de8934f4-a136-481c-a87a-b0b202b80a31';
+const COUNTRY = 'ZA'; // South Africa
 
 var siteConfig = {
   "version": 3,
   defaultChecklistKey: '7ddf754f-d193-4cc9-b351-99906754a03b',
-  availableChecklistKeys: ['d7dddbf4-2cf0-4f39-9b2a-bb099caae36c', '7ddf754f-d193-4cc9-b351-99906754a03b'],
+  availableChecklistKeys: [NATIONAL_CHECKLIST, '7ddf754f-d193-4cc9-b351-99906754a03b'],
   "pages": [
     {
       "id": "occurrenceSearch"
@@ -56,7 +53,7 @@ var siteConfig = {
     "scope": {
       "type": "equals",
       "key": "publishingCountry",
-      "value": "ZA"
+      "value": COUNTRY
     },
     "excludedFilters": [
       "publishingCountry"
@@ -74,14 +71,14 @@ var siteConfig = {
           "type": "in",
           "key": "countriesOfResearcher",
           "values": [
-            "ZA"
+            COUNTRY
           ]
         },
         {
           "type": "in",
           "key": "countriesOfCoverage",
           "values": [
-            "ZA"
+            COUNTRY
           ]
         }
       ]
