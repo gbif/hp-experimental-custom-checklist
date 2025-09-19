@@ -54,12 +54,23 @@ var siteConfig = {
   "messages": {},
   "occurrenceSearch": {
     "scope": {
-      "type": "equals",
-      "key": "publishingCountry",
-      "value": COUNTRY
+      "type": "and",
+      "predicates": [
+        {
+          "type": "equals",
+          "key": "publishingCountry",
+          "values": COUNTRY
+        },
+        {
+          "type": "equals",
+          "key": "country",
+          "values": COUNTRY
+        }
+      ]
     },
     "excludedFilters": [
-      "publishingCountry"
+      "publishingCountry",
+      "country"
     ]
   },
   "collectionSearch": {},
