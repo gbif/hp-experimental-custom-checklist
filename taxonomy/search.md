@@ -2,7 +2,7 @@
 layout: default
 title: Taxon
 permalink: /taxonomy/search
-description: Search the checklist of Fabaceae
+description: Search the checklist of south africa
 klass: fullwidth
 lang-ref: species-search
 ---
