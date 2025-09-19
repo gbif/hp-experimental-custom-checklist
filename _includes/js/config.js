@@ -70,6 +70,16 @@ var siteConfig = {
           "type": "equals",
           "key": "checklistKey",
           "value": NATIONAL_CHECKLIST
+        },
+        {
+          "type": "not",
+          "predicates": [
+            {
+              "type": "equals",
+              "key": "datasetKey",
+              "value": "4fa7b334-ce0d-4e88-aaae-2e0c138d049e"
+            }
+          ]
         }
       ]
     },
