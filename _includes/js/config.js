@@ -65,6 +65,11 @@ var siteConfig = {
           "type": "equals",
           "key": "country",
           "value": COUNTRY
+        },
+        {
+          "type": "equals",
+          "key": "checklistKey",
+          "value": NATIONAL_CHECKLIST
         }
       ]
     },
