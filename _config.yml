@@ -98,8 +98,8 @@ permalink: pretty # will strip extensions like .html from urls
 col:
   gbifDatasetKey: 668282c7-8d71-4c2b-b9ba-f9ab705c88d5
   version: "latest" 
-  catalogueKey: "312316" # or 312227 which is the ones used for organizing occurrences
-  defaultTaxonKey: "H6Z" # not sure how to choose root. I do not see one here: https://www.checklistbank.org/dataset/312227/classification
+  catalogueKey: "312227" # or 312227 which is the ones used for organizing occurrences
+  defaultTaxonKey: "x4" # not sure how to choose root. I do not see one here: https://www.checklistbank.org/dataset/312227/classification
 
 defaults:
   -
