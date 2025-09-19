@@ -31,3 +31,10 @@ $navbar-item-img-max-height: 2.5em;
 .gbif__taxonomy-filter__checklist-selector {
   font-size: 14px;
 }
+
+.fullwidth {
+  .article {
+    width: 100%;
+    max-width: 100%;
+  }
+}

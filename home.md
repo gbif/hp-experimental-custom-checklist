@@ -11,6 +11,8 @@ cta:
     isPrimary: true
   - text: About
     href: /about
+  - text: About the checklist
+    href: /dataset/668282c7-8d71-4c2b-b9ba-f9ab705c88d5
 permalink: /
 height: 90vh
 composition: 

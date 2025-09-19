@@ -11,6 +11,9 @@ var siteConfig = {
     },
     {
       "id": "literatureSearch"
+    },
+    {
+      "id": "datasetKey"
     }
   ],
   "disableInlineTableFilterButtons": false,

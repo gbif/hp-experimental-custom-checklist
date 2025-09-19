@@ -14,6 +14,10 @@
     href: /occurrence/search
   - text: Literature
     href: /literature/search
+  - text: Browse taxonomy
+    href: /taxonomy/browse
+  - text: Search taxonomy
+    href: /taxonomy/search
 - text: Training and Engagement
   menu:
   - text: Human Capital Development
