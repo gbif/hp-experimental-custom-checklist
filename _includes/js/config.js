@@ -59,12 +59,12 @@ var siteConfig = {
         {
           "type": "equals",
           "key": "publishingCountry",
-          "values": COUNTRY
+          "value": COUNTRY
         },
         {
           "type": "equals",
           "key": "country",
-          "values": COUNTRY
+          "value": COUNTRY
         }
       ]
     },
