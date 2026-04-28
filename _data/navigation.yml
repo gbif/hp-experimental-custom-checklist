@@ -1,37 +1,22 @@
-- text: About
-  menu:
-  - text: About us
-    href: /about
-  - text: Contact us
-    href: /contact-us
-  - text: Network partners
-    href: /network-partners
 - text: Data
   menu:
-  - text: Data mobilisation
-    href: /data-mobilisation
-  - text: Explore species occurrences
+  - text: Example record
+    href: #
+  - text: Explore all occurrences
     href: /occurrence/search
-  - text: Literature
-    href: /literature/search
   - text: Browse taxonomy
     href: /taxonomy/browse
   - text: Search taxonomy
     href: /taxonomy/search
-- text: Training and Engagement
+- text: About the pilot
+    href: /about
+- text: SANBI
   menu:
-  - text: Human Capital Development
-    href: /human-capital-development
-  - text: eLearning
-    href: /e-learning
-  - text: Regional engagement
-    href: /regional-engagement
-- text: News and events
-  href: /news-and-events
-- text: Resources
-  href: /resources-and-links
-
- 
-
-
-  
+  - text: About SANBI
+    href: /about-sanbi
+  - text: Network partners
+    href: /network-partners
+  - text: SANBI main site
+    href: https://www.sanbi-gbif.org
+  - text: Contact us
+    href: /contact-us
