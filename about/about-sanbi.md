@@ -1,12 +1,12 @@
 ---
-lang-ref: about
-title: Welcome to the SANBI-GBIF Node Website
+lang-ref: about-sanbi
+title: About SANBI
 description: 
 background: /assets/images/LandscapeBettysBay.jpg
 imageLicense: |
   Photo by Fatima Parker-Allie (SANBI)
 height: 70vh
-permalink: /about
+permalink: /about-sanbi
 ---
 
 ## About us
