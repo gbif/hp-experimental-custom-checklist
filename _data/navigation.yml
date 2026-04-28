@@ -9,7 +9,7 @@
   - text: Search taxonomy
     href: /taxonomy/search
 - text: About the pilot
-    href: /about
+  href: /about
 - text: SANBI
   menu:
   - text: About SANBI
