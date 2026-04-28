@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: Welcome to the SANBI-GBIF Node Website
+title: About this pilot site
 description: 
 background: /assets/images/LandscapeBettysBay.jpg
 imageLicense: |
