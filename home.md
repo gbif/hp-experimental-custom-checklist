@@ -6,10 +6,10 @@ description: |
   This experimental clone of the [SANBI website](https://www.sanbi-gbif.org/) tests indexing of species occurrences using a national checklist
 background: /assets/images/20180114_tsitsikamma-res.jpg
 cta:
-  - text: Start exploring
-    href: /occurrence/search
+  - text: Sample record
+    href: ?
     isPrimary: true
-  - text: About
+  - text: About this site
     href: /about
   - text: About the checklist
     href: /dataset/668282c7-8d71-4c2b-b9ba-f9ab705c88d5
