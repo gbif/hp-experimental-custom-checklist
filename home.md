@@ -7,7 +7,7 @@ description: |
 background: /assets/images/20180114_tsitsikamma-res.jpg
 cta:
   - text: Sample record
-    href: ?
+    href: /occurrence/search
     isPrimary: true
   - text: About this site
     href: /about
