@@ -3,7 +3,7 @@
 - text: Data
   menu:
   - text: Example record
-    href: /occurrence/search?entity=o_3708364223
+    href: /occurrence/search?entity=o_3708364223#taxon
   - text: Explore all occurrences
     href: /occurrence/search
   - text: Browse taxonomy
