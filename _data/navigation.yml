@@ -14,9 +14,7 @@
   menu:
   - text: About SANBI
     href: /about-sanbi
-  - text: Network partners
-    href: /network-partners
-  - text: SANBI main site
+  - text: GBIF-SANBI main site
     href: https://www.sanbi-gbif.org
   - text: Contact us
     href: /contact-us
