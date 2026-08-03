@@ -70,9 +70,6 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?checklistKey=f5dc22ca-0bb1-4692-8a97-cc7ac54d7ed9&publishingCountry=ZA&country=ZA&limit=0">1,217,744</span>
       description: Species occurrences
       href: /occurrence/search
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?checklistKey=f5dc22ca-0bb1-4692-8a97-cc7ac54d7ed9&publishingCountry=ZA&country=ZA&limit=0&mediaType=StillImage">5</span>
-      description: Images
-      href: /occurrence/search?view=GALLERY
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=ZA&limit=0">127</span>
       description: Datasets
       href: https://www.gbif.org/dataset/search?publishing_country=ZA
