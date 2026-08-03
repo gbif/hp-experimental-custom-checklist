@@ -6,6 +6,9 @@ var siteConfig = {
   "version": 3,
   defaultChecklistKey: NATIONAL_CHECKLIST,
   availableChecklistKeys: [NATIONAL_CHECKLIST, COL],
+  availableCatalogues: [
+    'OCCURRENCE',
+  ],
   "pages": [
     {
       "id": "occurrenceSearch"
